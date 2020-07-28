@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-tailwind",
+  "name": "emmanuel-blog-project",
   "description": "Gatsby starter styled with Tailwind",
-  "version": "4.0.0",
-  "author": "Taylor Bryant <taylor@bryant.io>",
+  "version": "1.0.0",
+  "author": "Emmanuel Estrada",
   "dependencies": {
     "gatsby": "2.24.11",
     "gatsby-plugin-manifest": "2.4.21",
@@ -35,7 +35,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "heroku-postbuild": "npm run build"
   },
   "devDependencies": {
     "@tailwindcss/custom-forms": "0.2.1",
