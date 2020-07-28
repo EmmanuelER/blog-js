@@ -13,10 +13,7 @@
   <br />
   <br />
 </div>
-  
-![alt text](https://image.ibb.co/jv6FC7/gatsby_starter_tailwind.png "Screenshot of Gatsby Starter Tailwind homepage")
-  
-<p align="center">View demo <a href="https://gatsby-starter-tailwind.oddstronaut.com/">here</a>.</p>
+
 
 ## What is Tailwind CSS?
 
@@ -59,7 +56,7 @@ Use `npm run build` to build your site for production.
 
 ## Deployment
 
-### Netlify
+### heruko
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/taylorbryant/gatsby-starter-tailwind)
 
